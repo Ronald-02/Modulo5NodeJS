@@ -1,4 +1,4 @@
-import app from './app.js'
+import app from './src/app.js'
 
 // escolhendo a porta em que o servidor será aberto
 const port = 3000
